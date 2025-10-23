@@ -92,6 +92,11 @@ td:last-child {
     background-color: white;
     line-height: 25px;
   }
+  h1,
+  h2,
+  h3 {
+    font-family: "Young+serif";
+  }
   #main {
     height: 100vh;
     width: auto;
