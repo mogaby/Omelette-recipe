@@ -91,10 +91,9 @@ td:last-child {
     margin: 0px;
     background-color: white;
     line-height: 25px;
+    font-family: 'Outfit';
   }
-  h1,
-  h2,
-  h3 {
+  h1, h2{
     font-family: "Young+serif";
   }
   #main {
